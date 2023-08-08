@@ -1,0 +1,5 @@
+pytorch
+pytorch_lightning
+matplotlib
+numpy
+tqdm
